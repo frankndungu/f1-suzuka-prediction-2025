@@ -101,7 +101,7 @@ We use a hybrid approach for accuracy + engagement:
 
 ---
 
-## For Non-Technical Readers (Reddit, IG, Twitter)
+## For Non-Technical Readers
 
 You don’t need to understand code to enjoy this:
 
