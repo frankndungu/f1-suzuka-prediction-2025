@@ -72,6 +72,40 @@ More visuals available in the `*.png` files in the repo. All plots are Otto-bran
 
 ---
 
+## Predicted Results for Suzuka 2025
+
+### Podium Finish Prediction
+
+|   Predicted Pos | Driver         | Team            |   Grid Pos |   Avg Finish |   Uncertainty |   Podium % |   Points % |
+|----------------:|:---------------|:----------------|-----------:|-------------:|--------------:|-----------:|-----------:|
+|               1 | Lando Norris   | McLaren         |          2 |        2.518 |       2.83014 |       86.2 |       95.5 |
+|               2 | Max Verstappen | Red Bull Racing |          1 |        2.892 |       2.8419  |       85.4 |       95.2 |
+|               3 | Oscar Piastri  | McLaren         |          3 |        3.768 |       2.86957 |       62.1 |       94.5 |
+
+### Full Grid Prediction
+
+|   Predicted Pos | Driver                | Team            |   Grid Pos |   Avg Finish |   Uncertainty |   Podium % |   Points % |
+|----------------:|:----------------------|:----------------|-----------:|-------------:|--------------:|-----------:|-----------:|
+|               4 | Charles Leclerc       | Ferrari         |          4 |        4.553 |       3.04573 |       36.3 |       93   |
+|               5 | George Russell        | Mercedes        |          5 |        5.918 |       3.01237 |       11.6 |       92.4 |
+|               6 | Lewis Hamilton        | Ferrari         |          8 |        7.106 |       3.43607 |        8.8 |       87.6 |
+|               7 | Andrea Kimi Antonelli | Mercedes        |          6 |        7.805 |       3.43843 |        3.4 |       84.7 |
+|               8 | Alexander Albon       | Williams        |          9 |        9.461 |       3.41821 |        1.4 |       67.7 |
+|               9 | Isack Hadjar          | VCARB           |          7 |        9.981 |       3.36035 |        0.5 |       65.2 |
+|              10 | Pierre Gasly          | Alpine          |         11 |       11.201 |       3.83605 |        1.1 |       45   |
+|              11 | Carlos Sainz Jr.      | Williams        |         12 |       12.14  |       3.73341 |        0.5 |       33.5 |
+|              12 | Fernando Alonso       | Aston Martin    |         13 |       12.377 |       3.96921 |        1   |       32   |
+|              13 | Oliver Bearman        | Haas F1 Team    |         10 |       12.489 |       3.35785 |        0   |       28.6 |
+|              14 | Liam Lawson           | VCARB           |         14 |       13.673 |       3.69537 |        0.3 |       20.4 |
+|              15 | Yuki Tsunoda          | Red Bull Racing |         15 |       14.239 |       3.76484 |        0.3 |       17.9 |
+|              16 | Nico Hülkenberg       | Kick Sauber     |         16 |       15.083 |       3.58678 |        0   |       12.4 |
+|              17 | Gabriel Bortoleto     | Kick Sauber     |         17 |       15.68  |       3.50655 |        0.3 |        9.9 |
+|              18 | Esteban Ocon          | Haas F1 Team    |         18 |       15.933 |       3.6221  |        0.4 |        9.1 |
+|              19 | Jack Doohan           | Alpine          |         19 |       16.404 |       3.5326  |        0.4 |        7.5 |
+|              20 | Lance Stroll          | Aston Martin    |         20 |       16.779 |       3.45458 |        0   |        7.9 |
+
+---
+
 ## Model Summary
 
 We use a hybrid approach for accuracy + engagement:
