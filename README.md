@@ -2,7 +2,7 @@
 
 ### Built for Fans. Backed by Data. Powered by [Otto.rentals](https://otto.rentals)
 
-Welcome to Otto's open-source F1 prediction engine — a machine learning project designed to forecast race results, generate driver insights, and create Instagram/Twitter-ready graphics for Formula 1 fans.
+Welcome to Otto's open-source F1 prediction engine — a machine learning project designed to forecast race results, generate driver insights for Formula 1 fans.
 
 This repo currently supports predictions for the Suzuka and Shanghai Grand Prix in 2025.
 
