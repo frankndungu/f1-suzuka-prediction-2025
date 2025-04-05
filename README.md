@@ -21,11 +21,11 @@ This repo currently supports predictions for the Suzuka and Shanghai Grand Prix 
 
 ## Why We Built This
 
-Otto helps car rental businesses go digital. But we’re also car lovers at heart. So we built this to:
+At Otto, we're all about helping car rental businesses go digital. But we’re also car enthusiasts, so we wanted to do something fun. We built this to:
 
-- Bring machine learning to Formula 1 race predictions
-- Create visual, shareable insights for fans
-- Showcase Otto’s technical chops and brand voice
+- Use machine learning to predict Formula 1 race results
+- Create cool, shareable insights for F1 fans
+- Show off what Otto can do and add our own unique spin
 
 ---
 
